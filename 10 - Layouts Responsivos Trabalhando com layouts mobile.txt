@@ -1,0 +1,39 @@
+https://cursos.alura.com.br/formacao-front-end
+https://cursos.alura.com.br/course/mobile-first-layouts-responsivos
+
+Fontes do Google
+https://fonts.google.com/
+
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
+atalho : header>img+nav>ul>li*>a
+atalho: section>h1+p+a
+atalho com as classes já inclusas: section.destaques.container>h2.destaques__titulo+(a*2>figure.destaques__painel>img.destaques__painel-imagem+figc.destaques__painel-texto)+a.destaques__botao
+
+
+
+1 - FERRAMENTAS, UNIDADES E IMAGENS 
+Analisar e desmembrar o layout recebido;
+Usar o EMMET para criar blocos de código HTML;
+Usar as unidades relativas REM e EM;
+Tipos de imagens e SVGs;
+
+2 - LAYOUT MOBILE E VARIÁVEIS CSS
+O que é e para que serve mobile-first;
+Como funciona o initial-scale dentro do conteúdo do Viewport;
+Como declarar e chamar variáveis CSS;
+
+3 - PARTICULARIDADES DE TELAS
+Utilizar as unidades de viewport;
+Identificar a diferença entre unidades absolutas e relativas;
+Analisar as limitações físicas de dispositivos;
+
+4 - TRABALHANDO A SEMÂNTICA HTML
+Como lidar com as imagens do layout que recebemos;
+Tags e atributos que têm mais função de semântica do que estilo;
+A importância de escrever um código semântico;
+
+5 - EVOLUINDO DO MOBILE AO DESKTOP
+Criar estilizações diferentes para diversos dispositivos com media queries;
+Adaptar estrutura e conteúdo para layouts diferentes;
+Progredir de um layout mobile até um layout para desktop;
